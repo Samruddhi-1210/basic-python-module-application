@@ -1,4 +1,5 @@
  Python Modules Practice
+ 
 This repository contains basic examples of commonly used Python modules. It is designed for beginners to learn how different Python libraries are imported and used in simple programs.
 
 Modules Covered
